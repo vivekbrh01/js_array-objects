@@ -30,5 +30,7 @@ The aim of the exercise is to get started with data structure:
 
 ## Concepts & Resources ℹ️
 
-1. [Objects](http://javascript.info/object)
-2. [Array](http://javascript.info/array)
+1. [Data Structure](https://eloquentjavascript.net/04_data.html)
+2. [Object](http://javascript.info/object)
+3. [Array](http://javascript.info/array)
+4. [Value and Reference](https://www.youtube.com/watch?v=9ooYYRLdg_g)
