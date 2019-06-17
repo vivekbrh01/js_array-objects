@@ -1,3 +1,5 @@
+Write the solution in the `main.js`
+
 1. Add a new property to your penguin called favoriteFoods and set it equal to an array containing a list of three strings.
 
 2. Access your penguin's second favorite food and print it to the console using console.log()
