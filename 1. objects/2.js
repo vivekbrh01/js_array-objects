@@ -1,3 +1,5 @@
+// Using the different way of accessing and assigning a value to the object using `.` or `[]`
+
 // 1. Define a variable named `user` and assign a blank object to it.
 
 // 2. Add a key of `user name` and a value of `Black Panther` to that object.
