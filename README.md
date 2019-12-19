@@ -4,6 +4,7 @@ The aim of the exercise is to get started with data structure:
 * [ ] Array
 * [ ] Object
 * [ ] Primitive Methods
+* [ ] Copy By Reference and Value
 
 ## Getting Started
 
