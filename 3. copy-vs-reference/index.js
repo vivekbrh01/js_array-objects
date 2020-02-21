@@ -110,8 +110,22 @@ let user2 = {
   house: house,
   brothers: brothers
 };
+
+let user3 = {
+  name: "Arya",
+  house: "Stark",
+  brothers: ["John", "Bran", "Robb"]
+};
 // Output of the below code and why?
 user.house === user2.house; // output:
 user.house == user2.house; // output:
 user.brothers === user2.brothers; // output:
 user.brothers == user2.brothers; // output:
+user.name == user2.name; // output:
+user.name === user2.name; // output:
+user.brothers == user3.brothers; // output:
+user.brothers === user3.brothers; // output:
+user.house === user2.house; // output
+user.house === user3.house; // output
+user.brothers[0] === user2.brothers[0]; // output
+user.brothers[0] === user3.brothers[0]; // output
