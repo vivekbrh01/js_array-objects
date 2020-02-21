@@ -95,3 +95,23 @@ var person = {
 };
 
 var clone = {};
+
+// Output of the following
+let brothers = ["John", "Bran", "Robb"];
+let house = "Stark";
+let user = {
+  name: "Arya",
+  house: house,
+  brothers: brothers
+};
+
+let user2 = {
+  name: "Arya",
+  house: house,
+  brothers: brothers
+};
+// Output of the below code and why?
+user.house === user2.house; // output:
+user.house == user2.house; // output:
+user.brothers === user2.brothers; // output:
+user.brothers == user2.brothers; // output:
